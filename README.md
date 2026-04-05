@@ -1,5 +1,11 @@
 # Vista — Strategic Finance Dashboard
 
+## 🌐 Live Demo
+[vista-strategic-finance.vercel.app](https://vista-strategic-finance.vercel.app)
+
+## 📁 Repository
+[github.com/Jeevanm2004/vista-strategic-finance](https://github.com/Jeevanm2004/vista-strategic-finance)
+
 Vista is a high-fidelity, Neo-Minimalist financial management platform designed for clarity and impact. Built with a focus on premium aesthetics and fluid motion, it provides real-time visibility into income, expenses, and strategic market velocity.
 
 ---
